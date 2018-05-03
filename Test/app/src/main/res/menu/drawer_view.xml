@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/about"
+            android:icon="@drawable/home"
+            android:title="Нүүр" />
+        <item
+            android:id="@+id/study"
+            android:icon="@drawable/study_icon"
+            android:title="@string/study" />
+        <item
+            android:id="@+id/lessons"
+            android:icon="@drawable/lessons_icon"
+            android:title="@string/lessons" />
+        <item
+            android:id="@+id/register"
+            android:icon="@drawable/register_icon"
+            android:title="@string/register" />
+        <item
+            android:id="@+id/help"
+            android:icon="@drawable/help_icon"
+            android:title="@string/help" />
+    </group>
+</menu>

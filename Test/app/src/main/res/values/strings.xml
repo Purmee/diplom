@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">МоСуХо</string>
+
+    <string name="about">Тухай</string>
+    <string name="study">Сургалт</string>
+    <string name="lessons">Хичээл</string>
+    <string name="register">Бүртгэл</string>
+    <string name="help">Тусламж</string>
+
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_tab1">Tab1</string>
+
+
+    <string-array name="sports_titles">
+        <item>Baseball</item>
+        <item>Badminton</item>
+        <item>Basketball</item>
+        <item>Bowling</item>
+        <item>Cycling</item>
+    </string-array>
+
+    <string-array name="sports_info">
+        <item>Here is some Baseball news!</item>
+        <item>Here is some Badminton news!</item>
+        <item>Here is some Basketball news!</item>
+        <item>Here is some Bowling news!</item>
+        <item>Here is some Cycling news!</item>
+    </string-array>
+
+    <string-array name="sports_title">
+        <item>Here is some Baseball news!</item>
+        <item>Here is some Badminton news!</item>
+        <item>Here is some Basketball news!</item>
+        <item>Here is some Bowling news!</item>
+        <item>Here is some Cycling news!</item>
+    </string-array>
+    <array name="sports_images">
+        <item>@drawable/suurgalt1</item>
+        <item>@drawable/surgalt</item>
+        <item>@drawable/suurgalt1</item>
+        <item>@drawable/suurgalt2</item>
+        <item>@drawable/suurgalt3</item>
+    </array>
+
+
+</resources>
